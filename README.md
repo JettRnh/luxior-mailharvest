@@ -1,8 +1,10 @@
 # Luxior MailHarvest — Email Intelligence Tool
 
-Owner: Jet  
-GitHub: JettRnh  
-TikTok: @jettinibos_
+**Owner:** Jet  
+**GitHub:** https://github.com/JettRnh  
+**Repository:** https://github.com/JettRnh/luxior-mailharvest.git  
+**TikTok:** https://www.tiktok.com/@jettinibos_?_r=1&_t=ZS-957TcwUzSWf  
+**Discord:** @jeet07685  
 
 ---
 
