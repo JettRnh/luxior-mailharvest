@@ -33,6 +33,10 @@ Luxior MailHarvest is a Python-based email intelligence tool designed for securi
     cd Luxior-OSINT-2
     pip install -r requirements.txt
 
+### Setup Output Folder
+
+    mkdir output
+
 ### Basic Usage
 
     # Interactive mode (recommended)
