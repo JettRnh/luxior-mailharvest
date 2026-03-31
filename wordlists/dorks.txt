@@ -1,0 +1,10 @@
+intitle:"index of" emails
+intitle:"index of" "email"
+"@gmail.com" filetype:xls
+"@yahoo.com" filetype:txt
+"@hotmail.com" filetype:csv
+intext:"email address"
+inurl:contact
+inurl:about
+intitle:"contact us"
+"send email to"
